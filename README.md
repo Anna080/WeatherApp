@@ -13,7 +13,7 @@ Avant d'exécuter ce projet, assurez-vous d'avoir les prérequis suivants instal
 
 ## Étape 1 : Récupération des fichiers volumineux
 
-1. Accédez au [lien suivant]([lien_vers_le_dossier_google_drive](https://drive.google.com/drive/folders/1oYDcgEKTizT9FVvInkkBrI8Uk7s3HXdF?usp=sharing)) pour télécharger les fichiers volumineux depuis Google Drive.
+1. Accédez au [lien suivant](https://drive.google.com/drive/folders/1oYDcgEKTizT9FVvInkkBrI8Uk7s3HXdF?usp=sharing) pour télécharger les fichiers volumineux depuis Google Drive.
 
 2. Téléchargez les fichiers suivants à partir du dossier Google Drive :
    - **forecastdata.zip** : Ce fichier contient les données de prévision au format CSV.
